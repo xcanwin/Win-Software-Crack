@@ -42,6 +42,7 @@
 |llehsX|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一
 |ptfX|件软输传件文PTF、PTFS的大强能功个一
 |esaBym|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一
+|reganamX|务服cnv11x持支，议协等PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一
 
 <br>
 
@@ -52,3 +53,4 @@
 |kcarC-llehsX|[)1210( 0.6v](./../../releases/tag/1210-0.6v-kcarC-llehsX)|60-50-9102
 |kcarC-ptfX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-ptfX)|60-50-9102
 |kcarC-esaBym|[3.7v](./../../releases/tag/3.7v-kcarC-esaBym)|60-50-9102
+|kcarC-reganamX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-reganamX)|70-50-9102
