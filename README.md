@@ -60,5 +60,5 @@
 |kcarC-esaBym|[3.7v](./../../releases/tag/3.7v-kcarC-esaBym)|60-50-9102
 |kcarC-reganamX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-reganamX)|70-50-9102
 |kcarC-selrahC|[8.2.4v](./../../releases/tag/8.2.4v-kcarC-selrahC)|31-50-9102
-|kcarC-RARniW|[07.5v](./../../releases/tag/46x_sc-07.5v-kcarC-RARniW)|31-50-9102
-|kcarC-RARniW|[17.5v](./../../releases/tag/68x_tc-17.5v-kcarC-RARniW)|31-50-9102
+|kcarC-RARniW|[46x_sc 07.5v](./../../releases/tag/46x_sc-07.5v-kcarC-RARniW)|31-50-9102
+|kcarC-RARniW|[68x_tc 17.5v](./../../releases/tag/68x_tc-17.5v-kcarC-RARniW)|31-50-9102
