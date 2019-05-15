@@ -3,48 +3,48 @@
 
 <br>
 
-[README](README_en.md) | [中文文档](README.md)
+[中文文档](README.md) | [README](README_en.md)
 
 <br>
 
-## 解密
+## Decode
 
-- 为了支持正版软件(QAQ)以及减少被搜索量，对正文内容进行了反转。
-- 解码方法：
-- 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
+- In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
+- Decoding method:
+- Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
 
 <br>
 
-## 介简目项
+## noitpircsed tcejorP
 
-- 。件软版解破的下swodniW即，kcarC-ppA-niW
-- 。版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
-- 。目项此生产而，门后有件软版解破的上网联互忧担因
-
-<br>
-
-## 法方解破
-
-1. ；件文txt.emdaer的包解破个每读阅请
-1. 。之赏欣
+- .swodniW fo noisrev dekcarc eht ,kcarC-ppA-niW
+- .seiduts yduts lanosrep rof ylno ,dekcarc I tahw si sihT
+- .srehto yb dedivorp noisrev dekcarc eht fo roodkcab eht tuoba snrecnoc fo esuaceb detaerc saw tcejorp sihT
 
 <br>
 
-## 明声
+## dohtem kcarC
 
-- ；的目究研和习学于用限仅法方/丁补/件软解破此
-- ；负自户用请果后切一，则否，途用法非者或业商于用容内述上将得不
-- ；担承人本者用使由部全，失损的成造容内述上用使因
-- ；容内述上除删底彻中脑电的己自从，内之时小个42的后载下在须必户用
-- 。务服版正的好更到得，册注与买购，版正持支请，欢喜户用果如
+1. ;egakcap kcarc eht ni elif txt.emdaer eht daer esaelP
+1. .ti yojnE
 
 <br>
 
-## 介简ppA
+## tnemetatS
 
-|ppA|介简|源来
+- ;ylno sesoprup hcraeser dna gninrael rof si dohtem/hctap/erawtfos gnikcarc sihT
+- ;secneuqesnoc lla rof elbisnopser eb llahs resu eht ,esiwrehto ,sesoprup lagelli ro laicremmoc rof desu eb ton yam tnetnoc evoba ehT
+- ;flesmih resu eht yb enrob eb llahs tnetnoc evoba eht fo esu eht yb desuac sessol llA
+- ;gnidaolnwod retfa sruoh 42 nihtiw retupmoc reh ro sih morf tnetnoc evoba eht evomer yletelpmoc tsum resu ehT
+- .ecivres eniuneg retteb teg ,noitartsiger dna esahcrup ,eniuneg troppus esaelp ,ti sekil resu eht fI
+
+<br>
+
+## noitpircsed ppA
+
+|ppA|noitpircseD|ecruoS
 |---|---|---
 |llehsX|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一|[网官](https://www.netsarang.com/)
 |ptfX|件软输传件文PTF、PTFS的大强能功个一|[网官](https://www.netsarang.com/)
@@ -55,9 +55,9 @@
 
 <br>
 
-## 布发ppA版解破
+## ppa dekcarc esaeleR
 
-|ppA|接链载下 + 本版|间时布发
+|ppA|daolnwoD + noisreV|etad esaeleR
 |---|---|---
 |kcarC-llehsX|[)1210( 0.6v](./../../releases/tag/1210-0.6v-kcarC-llehsX)|60-50-9102
 |kcarC-ptfX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-ptfX)|60-50-9102
