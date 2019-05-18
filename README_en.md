@@ -1,5 +1,5 @@
 
-# kcarC-ppA-niW
+# Win-Software-Crack
 
 <br>
 
@@ -7,21 +7,21 @@
 
 <br>
 
+## Project description
+
+- Win-Software-Crack, the cracked version of Windows softwares.
+- This is what I cracked, only for personal study studies.
+- This project was created because of concerns about the backdoor of the cracked version provided by others.
+
+<br>
+
 ## Decode
 
-- In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
+- In order to support the genuine software (QAQ) and reduce the amount of search, the content of the text was reversed.
 - Decoding method:
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
-
-<br>
-
-## noitpircsed tcejorP
-
-- .swodniW fo noisrev dekcarc eht ,kcarC-ppA-niW
-- .seiduts yduts lanosrep rof ylno ,dekcarc I tahw si sihT
-- .srehto yb dedivorp noisrev dekcarc eht fo roodkcab eht tuoba snrecnoc fo esuaceb detaerc saw tcejorp sihT
 
 <br>
 
@@ -42,22 +42,22 @@
 
 <br>
 
-## noitpircsed ppA
+## noitpircsed erawtfoS
 
-|ppA|noitpircseD|ecruoS
+|erawtfoS|noitpircseD|ecruoS
 |---|---|---
 |llehsX|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一|[网官](https://www.netsarang.com/)
 |ptfX|件软输传件文PTF、PTFS的大强能功个一|[网官](https://www.netsarang.com/)
 |esaBym|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
-|reganamX|务服cnv11x持支，议协等PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
+|reganamX|cnv11x、PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
 |selrahC|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|件软压解缩压|[网官](https://www.rarlab.com/)
 
 <br>
 
-## ppa dekcarc esaeleR
+## erawtfos dekcarc esaeleR
 
-|ppA|daolnwoD + noisreV|etad esaeleR
+|erawtfoS|daolnwoD + noisreV|etad esaeleR
 |---|---|---
 |kcarC-llehsX|[)1210( 0.6v](./../../releases/tag/1210-0.6v-kcarC-llehsX)|60-50-9102
 |kcarC-ptfX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-ptfX)|60-50-9102

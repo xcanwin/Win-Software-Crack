@@ -1,9 +1,17 @@
 
-# kcarC-ppA-niW
+# Win-Software-Crack
 
 <br>
 
 [README](README_en.md) | [中文文档](README.md)
+
+<br>
+
+## 项目简介
+
+- Win-App-Crack，即破解版Windows软件。
+- 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
+- 因担忧互联网上的破解版软件有后门，而产生此项目。
 
 <br>
 
@@ -14,14 +22,6 @@
 - 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
 `enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
-
-<br>
-
-## 介简目项
-
-- 。件软版解破的下swodniW即，kcarC-ppA-niW
-- 。版册注免的究研习学人个于用限仅且，的解破人本是的供提此在
-- 。目项此生产而，门后有件软版解破的上网联互忧担因
 
 <br>
 
@@ -42,22 +42,22 @@
 
 <br>
 
-## 介简ppA
+## 介简件软
 
-|ppA|介简|源来
+|件软|介简|源来
 |---|---|---
 |llehsX|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一|[网官](https://www.netsarang.com/)
 |ptfX|件软输传件文PTF、PTFS的大强能功个一|[网官](https://www.netsarang.com/)
 |esaBym|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
-|reganamX|务服cnv11x持支，议协等PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
+|reganamX|cnv11x、PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
 |selrahC|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|件软压解缩压|[网官](https://www.rarlab.com/)
 
 <br>
 
-## 布发ppA版解破
+## 布发件软版解破
 
-|ppA|接链载下 + 本版|间时布发
+|件软|接链载下 + 本版|间时布发
 |---|---|---
 |kcarC-llehsX|[)1210( 0.6v](./../../releases/tag/1210-0.6v-kcarC-llehsX)|60-50-9102
 |kcarC-ptfX|[)5110( 0.6v](./../../releases/tag/5110-0.6v-kcarC-ptfX)|60-50-9102
