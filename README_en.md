@@ -21,7 +21,8 @@
 - Decoding method:
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
-`enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));`
+<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
+else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
 
 <br>
 
@@ -52,6 +53,7 @@
 |reganamX|cnv11x、PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
 |selrahC|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|件软压解缩压|[网官](https://www.rarlab.com/)
+|suimreT|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
 
 <br>
 
@@ -66,3 +68,4 @@
 |kcarC-selrahC|[8.2.4v](./../../releases/tag/8.2.4v-kcarC-selrahC)|31-50-9102
 |kcarC-RARniW|[46x_sc 07.5v](./../../releases/tag/46x_sc-07.5v-kcarC-RARniW)|31-50-9102
 |kcarC-RARniW|[68x_tc 17.5v](./../../releases/tag/68x_tc-17.5v-kcarC-RARniW)|31-50-9102
+|kcarC-suimreT|[1.5.4v](./../../releases/tag/1.5.4v-kcarC-suimreT)|02-50-9102
