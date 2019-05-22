@@ -1,4 +1,6 @@
 
+<keepit>
+
 # Win-Software-Crack
 
 <br>
@@ -11,7 +13,8 @@
 
 - Win-Software-Crack, the cracked version of Windows softwares.
 - This is what I cracked, only for personal study studies.
-- This project was created because of concerns about the backdoor of the cracked version provided by others.
+- This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the softwares I cracked.
+- If you need to use the cracked version of MacOS applications, try [MacOS-App-Crack](./../../../MacOS-App-Crack).
 
 <br>
 
@@ -21,8 +24,16 @@
 - Decoding method:
 - Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
 
-<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
-else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
+```
+
+enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
+("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
+function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
+
+
+```
+
+</keepit>
 
 <br>
 

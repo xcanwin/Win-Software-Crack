@@ -1,4 +1,6 @@
 
+<keepit>
+
 # Win-Software-Crack
 
 <br>
@@ -11,7 +13,8 @@
 
 - Win-App-Crack，即破解版Windows软件。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
-- 因担忧互联网上的破解版软件有后门，而产生此项目。
+- 因担忧互联网上的破解版软件有后门，而产生此项目，因此请放心使用本人破解的软件。
+- 如果需要破解版MacOS应用，可试试 [MacOS-App-Crack](./../../../MacOS-App-Crack)。
 
 <br>
 
@@ -21,8 +24,16 @@
 - 解码方法：
 - 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
 
-<code>enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split("").reverse().join("");}
-else{prt.childNodes.forEach(function(chd){enc(chd);});}};enc(document.querySelector(".repository-content"));</code>
+```
+
+enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
+("").reverse().join("");}else{if(prt.nodeName!=="KEEPIT"){prt.childNodes.forEach(
+function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"));
+
+
+```
+
+</keepit>
 
 <br>
 
