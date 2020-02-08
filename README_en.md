@@ -12,9 +12,19 @@
 ## Project description
 
 - Win-Software-Crack, the cracked version of Windows softwares.
+- This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the applications I cracked.
 - This is what I cracked, only for personal study studies.
-- This project was created because of concerns about the backdoor of the cracked version provided by others, so feel free to use the softwares I cracked.
 - If you need to use the cracked version of MacOS applications, try [MacOS-App-Crack](./../../../MacOS-App-Crack).
+
+<br>
+
+## Statement
+
+- This cracking software/patch/method is for learning and research purposes only;
+- The above content may not be used for commercial or illegal purposes, otherwise, the user shall be responsible for all consequences;
+- All losses caused by the use of the above content shall be borne by the user himself;
+- The user must completely remove the above content from his or her computer within 24 hours after downloading;
+- If the user likes it, please support genuine, purchase and registration, get better genuine service.
 
 <br>
 
@@ -42,16 +52,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 <br>
 
-## tnemetatS
-
-- ;ylno sesoprup hcraeser dna gninrael rof si dohtem/hctap/erawtfos gnikcarc sihT
-- ;secneuqesnoc lla rof elbisnopser eb llahs resu eht ,esiwrehto ,sesoprup lagelli ro laicremmoc rof desu eb ton yam tnetnoc evoba ehT
-- ;flesmih resu eht yb enrob eb llahs tnetnoc evoba eht fo esu eht yb desuac sessol llA
-- ;gnidaolnwod retfa sruoh 42 nihtiw retupmoc reh ro sih morf tnetnoc evoba eht evomer yletelpmoc tsum resu ehT
-- .ecivres eniuneg retteb teg ,noitartsiger dna esahcrup ,eniuneg troppus esaelp ,ti sekil resu eht fI
-
-<br>
-
 ## noitpircsed erawtfoS
 
 |erawtfoS|dnemmoceR|noitpircseD|ecruoS
@@ -63,6 +63,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |selrahC|☆★★★★|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|★★★★★|件软压解缩压|[网官](https://www.rarlab.com/)
 |suimreT|☆☆★★★|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
+|reifixorP|☆★★★★|noitacilppa yxorp lufrewop yrev A|[etisbew laiciffO](https://www.proxifier.com/)
 
 <br>
 
@@ -79,3 +80,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC RARniW|[)68x_tc( 17.5v](./../../releases/tag/68x_tc-17.5v-kcarC-RARniW)|31-50-9102
 |kcarC suimreT|[1.5.4v](./../../releases/tag/1.5.4v-kcarC-suimreT)|02-50-9102
 |kcarC suimreT|[3.7.4v](./../../releases/tag/3.7.4v-kcarC-suimreT)|03-60-9102
+|esneciL reifixorP|[24.3v](./../../releases/tag/24.3v-esneciL-reifixorP)|80-20-0202

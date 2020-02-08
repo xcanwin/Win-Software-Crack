@@ -12,17 +12,29 @@
 ## 项目简介
 
 - Win-App-Crack，即破解版Windows软件。
+- 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
-- 因担忧互联网上的破解版软件有后门，而产生此项目，因此请放心使用本人破解的软件。
-- 如果需要破解版MacOS应用，可试试 [MacOS-App-Crack](./../../../MacOS-App-Crack)。
+- 如果需要破解版Windows软件，可试试 [MacOS-App-Crack](./../../../MacOS-App-Crack)。
 
 <br>
 
-## 解密
+## 声明
 
-- 为了支持正版软件(QAQ)以及减少被搜索量，对正文内容进行了反转。
+- 此破解软件/补丁/方法仅限用于学习和研究目的；
+- 不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负；
+- 因使用上述内容造成的损失，全部由使用者本人承担；
+- 用户必须在下载后的24个小时之内，从自己的电脑中彻底删除上述内容；
+- 如果用户喜欢，请支持正版，购买与注册，得到更好的正版服务。
+
+<br>
+
+## 解码说明
+
+- 为了支持正版软件(QAQ)以及减少被搜索量，对后面的正文内容进行了文字反转。
 - 解码方法：
-- 复制下面的js代码-&gt;键盘F12-&gt;控制台-&gt;粘贴-&gt;回车
+- 使用电脑 -&gt; 复制下面的js代码 -&gt; 键盘"F12" -&gt; 
+- 控制台(Console)选项卡 -&gt; 粘贴 -&gt; 回车 -&gt; 
+- 此时后面的正文可正常阅读
 
 ```
 enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
@@ -42,16 +54,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 <br>
 
-## 明声
-
-- ；的目究研和习学于用限仅法方/丁补/件软解破此
-- ；负自户用请果后切一，则否，途用法非者或业商于用容内述上将得不
-- ；担承人本者用使由部全，失损的成造容内述上用使因
-- ；容内述上除删底彻中脑电的己自从，内之时小个42的后载下在须必户用
-- 。务服版正的好更到得，册注与买购，版正持支请，欢喜户用果如
-
-<br>
-
 ## 介简件软
 
 |件软|数指荐推|介简|源来
@@ -63,6 +65,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |selrahC|☆★★★★|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|★★★★★|件软压解缩压|[网官](https://www.rarlab.com/)
 |suimreT|☆☆★★★|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
+|reifixorP|☆★★★★|用应理代的大强常非能功款一|[网官](https://www.proxifier.com/)
 
 <br>
 
@@ -79,3 +82,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC RARniW|[)68x_tc( 17.5v](./../../releases/tag/68x_tc-17.5v-kcarC-RARniW)|31-50-9102
 |kcarC suimreT|[1.5.4v](./../../releases/tag/1.5.4v-kcarC-suimreT)|02-50-9102
 |kcarC suimreT|[3.7.4v](./../../releases/tag/3.7.4v-kcarC-suimreT)|03-60-9102
+|esneciL reifixorP|[24.3v](./../../releases/tag/24.3v-esneciL-reifixorP)|80-20-0202
