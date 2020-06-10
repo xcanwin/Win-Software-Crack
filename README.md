@@ -60,12 +60,15 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |---|---|---|---
 |llehsX|★★★★★|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一|[网官](https://www.netsarang.com/)
 |ptfX|★★★★★|件软输传件文PTF、PTFS的大强能功个一|[网官](https://www.netsarang.com/)
-|esaBym|☆☆☆★★|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
+|esaBym|☆☆★★★|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
 |reganamX|☆☆★★★|cnv11x、PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
 |selrahC|☆★★★★|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
 |RARniW|★★★★★|件软压解缩压|[网官](https://www.rarlab.com/)
 |suimreT|☆☆★★★|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
 |reifixorP|☆★★★★|用应理代的大强常非能功款一|[网官](https://www.proxifier.com/)
+|erapmoC dnoyeB|★★★★★|用应比对夹件文与本文的业专款一|[网官](https://www.scootersoftware.com/)
+|yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|式格种多等案档压解自、ECA、JRA、RAR、PIZ持支 ,具工的码密件文缩压解破于用款一|[网官](https://www.elcomsoft.com/archpr.html)
+|eciffO SPW|★★★★★|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
 
 <br>
 
@@ -83,3 +86,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC suimreT|[1.5.4v](./../../releases/tag/1.5.4v-kcarC-suimreT)|02-50-9102
 |kcarC suimreT|[3.7.4v](./../../releases/tag/3.7.4v-kcarC-suimreT)|03-60-9102
 |esneciL reifixorP|[24.3v](./../../releases/tag/24.3v-esneciL-reifixorP)|80-20-0202
+|kcarC erapmoC dnoyeB|[)75642( 4.3.4v](./../../releases/tag/75642-4.3.4v-kcarC-erapmoC-dnoyeB)|01-60-0202
+|kcarC yrevoceR drowssaP evihcrA decnavdA|[0.55.45.4v](./../../releases/tag/0.55.45.4v-kcarC-yrevoceR-drowssaP-evihcrA-decnavdA)|01-60-0202
+|kcarC eciffO SPW|[5788.2.8.11v](./../../releases/tag/5788.2.8.11v-kcarC-eciffO-SPW)|01-60-0202

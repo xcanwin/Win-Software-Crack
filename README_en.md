@@ -30,9 +30,11 @@
 
 ## Decode
 
-- In order to support the genuine software (QAQ) and reduce the amount of search, the content of the text was reversed.
+- In order to support the genuine application (QAQ) and reduce the amount of search, the content of the text was reversed.
 - Decoding method:
-- Copy the following js code -&gt; keyboard F12 -&gt; console -&gt; paste -&gt; enter
+- Use PC -&gt; Copy the following javascript code -&gt; 
+- keyboard "F12" -&gt; Console tab -&gt; Paste -&gt; Enter -&gt; 
+- At this time, the following text can be read normally
 
 ```
 enc=function(prt){if(prt.nodeName=="#text"){prt.textContent=prt.textContent.split
@@ -56,14 +58,17 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 |erawtfoS|dnemmoceR|noitpircseD|ecruoS
 |---|---|---|---
-|llehsX|★★★★★|议协等PTFS和PTF、nigoLR、laireS、tenleT、2HSS、1HSS持支，器拟模端终程远的大强个一|[网官](https://www.netsarang.com/)
-|ptfX|★★★★★|件软输传件文PTF、PTFS的大强能功个一|[网官](https://www.netsarang.com/)
-|esaBym|☆☆☆★★|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一|[网官](http://www.wjjsoft.com/)
-|reganamX|☆☆★★★|cnv11x、PCMDX、HSR、cexeR、nigoLR、tenleT、2HSS、1HSS持支，统系理管拟模端终的大强个一|[网官](https://www.netsarang.com/)
-|selrahC|☆★★★★|包抓于用要主，具工析分络网|[网官](https://www.charlesproxy.com/)
-|RARniW|★★★★★|件软压解缩压|[网官](https://www.rarlab.com/)
-|suimreT|☆☆★★★|端户客ptfs+hss台平跨的看好致精款一|[网官](https://www.termius.com/)
+|llehsX|★★★★★|PTFS dna PTF ,nigoLR ,laireS ,tenleT ,2HSS ,1HSS troppus ,rotalume lanimret etomer lufrewop A|[etisbew laiciffO](https://www.netsarang.com/)
+|ptfX|★★★★★|erawtfos refsnart elif PTF dna PTFS lufrewop A|[etisbew laiciffO](https://www.netsarang.com/)
+|esaBym|☆☆★★★|tnemeganam noitamrofni lanosrep dna erawtfos gnikat-eton ,esabatad mrof-eerf ,erawtfos tnemeganam egdelwonk gnitargetni noitacilppa nA|[etisbew laiciffO](http://www.wjjsoft.com/)
+|reganamX|☆☆★★★|cnv11x dna PCMDX ,HSR ,cexeR ,nigoLR ,tenleT ,2HSS ,1HSS troppus ,metsys tnemeganam noitalumis lanimret lufrewop A|[etisbew laiciffO](https://www.netsarang.com/)
+|selrahC|☆★★★★|stekcap erutpac ot desu ylniam ,loot sisylana krowten A|[etisbew laiciffO](https://www.charlesproxy.com/)
+|RARniW|★★★★★|erawtfos noisserpmoced dna noisserpmoC|[etisbew laiciffO](https://www.rarlab.com/)
+|suimreT|☆☆★★★|tneilc ptfs + hss mroftalp-ssorc lufituaeb dna etisiuqxe nA|[etisbew laiciffO](https://www.termius.com/)
 |reifixorP|☆★★★★|noitacilppa yxorp lufrewop yrev A|[etisbew laiciffO](https://www.proxifier.com/)
+|erapmoC dnoyeB|★★★★★|noitacilppa nosirapmoc redlof dna txet lanoisseforp A|[etisbew laiciffO](https://www.scootersoftware.com/)
+|yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|sevihcra gnitcartxe-fles dna ECA ,JRA ,RAR ,PIZ gnitroppus ,selif desserpmoc fo sdrowssap gnikcarc rof loot A|[etisbew laiciffO](https://www.elcomsoft.com/archpr.html)
+|eciffO SPW|★★★★★|tnioprewoP dna lecxE ,droW gnidulcni ,erawtfos eciffO|[etisbew laiciffO](https://www.wps.cn/product/wpsmac/)
 
 <br>
 
@@ -81,3 +86,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC suimreT|[1.5.4v](./../../releases/tag/1.5.4v-kcarC-suimreT)|02-50-9102
 |kcarC suimreT|[3.7.4v](./../../releases/tag/3.7.4v-kcarC-suimreT)|03-60-9102
 |esneciL reifixorP|[24.3v](./../../releases/tag/24.3v-esneciL-reifixorP)|80-20-0202
+|kcarC erapmoC dnoyeB|[)75642( 4.3.4v](./../../releases/tag/75642-4.3.4v-kcarC-erapmoC-dnoyeB)|01-60-0202
+|kcarC yrevoceR drowssaP evihcrA decnavdA|[0.55.45.4v](./../../releases/tag/0.55.45.4v-kcarC-yrevoceR-drowssaP-evihcrA-decnavdA)|01-60-0202
+|kcarC eciffO SPW|[5788.2.8.11v](./../../releases/tag/5788.2.8.11v-kcarC-eciffO-SPW)|01-60-0202
