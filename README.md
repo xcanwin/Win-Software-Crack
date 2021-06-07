@@ -11,7 +11,7 @@
 
 ## 项目简介
 
-- Win-App-Crack，即破解版Windows软件。
+- Win-Software-Crack，即破解版Windows软件。
 - 因担忧互联网上的破解版应用有后门，而产生此项目，因此请放心使用本人破解的应用。
 - 在此提供的是本人破解的，且仅限用于个人学习研究的免注册版。
 - 如果需要破解版Windows软件，可试试 [MacOS-App-Crack](./../../../MacOS-App-Crack)。
@@ -89,3 +89,6 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 |kcarC erapmoC dnoyeB|[)75642( 4.3.4v](./../../releases/tag/75642-4.3.4v-kcarC-erapmoC-dnoyeB)|01-60-0202
 |kcarC yrevoceR drowssaP evihcrA decnavdA|[0.55.45.4v](./../../releases/tag/0.55.45.4v-kcarC-yrevoceR-drowssaP-evihcrA-decnavdA)|01-60-0202
 |kcarC eciffO SPW|[5788.2.8.11v](./../../releases/tag/5788.2.8.11v-kcarC-eciffO-SPW)|01-60-0202
+|kcarC reganamX|[)0700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
+|kcarC llehsX|[)3700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
+|kcarC ptfX|[)1700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
