@@ -32,8 +32,8 @@
 
 - 为了支持正版软件(QAQ)以及减少被搜索量，对后面的正文内容进行了文字反转。
 - 解码方法：
-- 使用电脑 -&gt; 复制下面的js代码 -&gt; 键盘"F12" -&gt; 
-- 控制台(Console)选项卡 -&gt; 粘贴 -&gt; 回车 -&gt; 
+- 使用电脑 -> 复制下面的js代码 -> 键盘"F12" -> 
+- 控制台(Console)选项卡 -> 粘贴 -> 回车 -> 
 - 此时后面的正文可正常阅读
 
 ```
@@ -68,6 +68,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |erapmoC dnoyeB|★★★★★|用应比对夹件文与本文的业专款一|[网官](https://www.scootersoftware.com/)
 |yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|式格种多等案档压解自、ECA、JRA、RAR、PIZ持支 ,具工的码密件文缩压解破于用款一|[网官](https://www.elcomsoft.com/archpr.html)
 |eciffO SPW|★★★★★|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
+|claClapO|☆☆★★★|器算计能功多的算运行多持支款一|[etisbew laiciffO](https://www.skytopia.com/software/opalcalc/index.htm)
 
 <br>
 
@@ -92,3 +93,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC llehsX|[)3700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
 |kcarC ptfX|[)1700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
 |kcarC erapmoC dnoyeB|[)56162( 1.4.4v](./../../releases/tag/56162-1.4.4v-kcarC-erapmoC-dnoyeB)|92-21-1202
+|kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
