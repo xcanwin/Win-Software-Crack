@@ -68,7 +68,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |erapmoC dnoyeB|★★★★★|用应比对夹件文与本文的业专款一|[网官](https://www.scootersoftware.com/)
 |yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|式格种多等案档压解自、ECA、JRA、RAR、PIZ持支 ,具工的码密件文缩压解破于用款一|[网官](https://www.elcomsoft.com/archpr.html)
 |eciffO SPW|★★★★★|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
-|claClapO|☆☆★★★|器算计能功多的算运行多持支款一|[etisbew laiciffO](https://www.skytopia.com/software/opalcalc/index.htm)
+|claClapO|☆☆★★★|器算计能功多的算运行多持支款一|[网官](https://www.skytopia.com/software/opalcalc/index.htm)
 
 <br>
 
