@@ -96,3 +96,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC ptfX|[)1700( 0.7v](./../../releases/tag/7000.0.7v-kcarC-etiuSrewoPreganamX)|80-60-1202
 |kcarC erapmoC dnoyeB|[)56162( 1.4.4v](./../../releases/tag/56162-1.4.4v-kcarC-erapmoC-dnoyeB)|92-21-1202
 |kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
+|kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
