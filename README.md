@@ -71,6 +71,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|式格种多等案档压解自、ECA、JRA、RAR、PIZ持支 ,具工的码密件文缩压解破于用款一|[网官](https://www.elcomsoft.com/archpr.html)
 |eciffO SPW|★★★★★|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
 |claClapO|☆☆★★★|器算计能功多的算运行多持支款一|[网官](https://www.skytopia.com/software/opalcalc/index.htm)
+|dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://www.xmind.net/)
 
 <br>
 
@@ -97,3 +98,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC erapmoC dnoyeB|[)56162( 1.4.4v](./../../releases/tag/56162-1.4.4v-kcarC-erapmoC-dnoyeB)|92-21-1202
 |kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
 |kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
+|kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202

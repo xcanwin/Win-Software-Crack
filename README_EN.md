@@ -71,6 +71,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |yrevoceR drowssaP evihcrA decnavdA|☆☆★★★|sevihcra gnitcartxe-fles dna ECA ,JRA ,RAR ,PIZ gnitroppus ,selif desserpmoc fo sdrowssap gnikcarc rof loot A|[etisbew laiciffO](https://www.elcomsoft.com/archpr.html)
 |eciffO SPW|★★★★★|tnioprewoP dna lecxE ,droW gnidulcni ,erawtfos eciffO|[etisbew laiciffO](https://www.wps.cn/product/wpsmac/)
 |claClapO|☆☆★★★|noitarepo enil-itlum htiw rotaluclac lanoitcnuf-itlum A|[etisbew laiciffO](https://www.skytopia.com/software/opalcalc/index.htm)
+|dnimX|☆☆★★★|pam dniM|[etisbew laiciffO](https://www.xmind.net/)
 
 <br>
 
@@ -97,3 +98,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC erapmoC dnoyeB|[)56162( 1.4.4v](./../../releases/tag/56162-1.4.4v-kcarC-erapmoC-dnoyeB)|92-21-1202
 |kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
 |kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
+|kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
