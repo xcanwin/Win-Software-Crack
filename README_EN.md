@@ -72,6 +72,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |eciffO SPW|★★★★★|tnioprewoP dna lecxE ,droW gnidulcni ,erawtfos eciffO|[etisbew laiciffO](https://www.wps.cn/product/wpsmac/)
 |claClapO|☆☆★★★|noitarepo enil-itlum htiw rotaluclac lanoitcnuf-itlum A|[etisbew laiciffO](https://www.skytopia.com/software/opalcalc/index.htm)
 |dnimX|☆☆★★★|pam dniM|[etisbew laiciffO](https://www.xmind.net/)
+|pizidnaB|☆★★★★|revihcra PIZ lacipyt rehtona teY|[etisbew laiciffO](https://www.bandisoft.com/)
 
 <br>
 
@@ -99,3 +100,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
 |kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
 |kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
+|kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202

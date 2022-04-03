@@ -72,6 +72,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |eciffO SPW|★★★★★|tnioprewoP、lecxE、droW括包，件软公办|[网官](https://www.wps.cn/product/wpsmac/)
 |claClapO|☆☆★★★|器算计能功多的算运行多持支款一|[网官](https://www.skytopia.com/software/opalcalc/index.htm)
 |dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://www.xmind.net/)
+|pizidnaB|☆★★★★|件软压解、缩压的式格包缩压种多持支款一|[网官](https://www.bandisoft.com/)
 
 <br>
 
@@ -99,3 +100,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC claClapO|[49.1v](./../../releases/tag/49.1v-kcarC-claClapO)|40-10-2202
 |kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
 |kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
+|kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202
