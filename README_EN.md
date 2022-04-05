@@ -73,6 +73,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |claClapO|☆☆★★★|noitarepo enil-itlum htiw rotaluclac lanoitcnuf-itlum A|[etisbew laiciffO](https://www.skytopia.com/software/opalcalc/index.htm)
 |dnimX|☆☆★★★|pam dniM|[etisbew laiciffO](https://www.xmind.net/)
 |pizidnaB|☆★★★★|revihcra PIZ lacipyt rehtona teY|[etisbew laiciffO](https://www.bandisoft.com/)
+|reganaM daolnwoD tenretnI|☆☆★★★|erawtfos daolnwod daerht-itluM|[etisbew laiciffO](https://www.internetdownloadmanager.com/)
 
 <br>
 
@@ -101,3 +102,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC eciffO SPW|[91011.2.8.11v](./../../releases/tag/91011.2.8.11v-kcarC-eciffO-SPW)|72-20-2202
 |kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
 |kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202
+|kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
