@@ -74,6 +74,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |dnimX|☆☆★★★|件软暴风脑头和图导维思的能功全款一|[网官](https://www.xmind.net/)
 |pizidnaB|☆★★★★|件软压解、缩压的式格包缩压种多持支款一|[网官](https://www.bandisoft.com/)
 |reganaM daolnwoD tenretnI|☆☆★★★|件软载下程线多款一|[网官](https://www.internetdownloadmanager.com/)
+|muimerP tacivaN|★★★★★|一之有没，具工理管发开库据数的用好最|[网官](https://www.navicat.com/)
 
 <br>
 
@@ -103,3 +104,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
 |kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202
 |kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
+|kcarC muimerP tacivaN|[11.0.61v](./../../releases/tag/11.0.61v-kcarC-muimerP-tacivaN)|50-40-2202

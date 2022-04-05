@@ -74,6 +74,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |dnimX|☆☆★★★|pam dniM|[etisbew laiciffO](https://www.xmind.net/)
 |pizidnaB|☆★★★★|revihcra PIZ lacipyt rehtona teY|[etisbew laiciffO](https://www.bandisoft.com/)
 |reganaM daolnwoD tenretnI|☆☆★★★|erawtfos daolnwod daerht-itluM|[etisbew laiciffO](https://www.internetdownloadmanager.com/)
+|muimerP tacivaN|★★★★★|eno on ,loot tnemeganam tnempoleved esabatad tseb ehT|[etisbew laiciffO](https://www.navicat.com/)
 
 <br>
 
@@ -103,3 +104,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC dnimX|[652290302202v](./../../releases/tag/652290302202v-kcarC-dnimX)|92-30-2202
 |kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202
 |kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
+|kcarC muimerP tacivaN|[11.0.61v](./../../releases/tag/11.0.61v-kcarC-muimerP-tacivaN)|50-40-2202
