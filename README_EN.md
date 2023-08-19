@@ -105,3 +105,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC pizidnaB|[32.7v](./../../releases/tag/32.7v-kcarC-pizidnaB)|40-40-2202
 |kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
 |kcarC muimerP tacivaN|[11.0.61v](./../../releases/tag/11.0.61v-kcarC-muimerP-tacivaN)|50-40-2202
+|kcarC eciffO SPW|[98021.2.8.11v](./../../releases/tag/98021.2.8.11v-kcarC-eciffO-SPW)|91-80-3202
