@@ -106,3 +106,8 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
 |kcarC muimerP tacivaN|[11.0.61v](./../../releases/tag/11.0.61v-kcarC-muimerP-tacivaN)|50-40-2202
 |kcarC eciffO SPW|[98021.2.8.11v](./../../releases/tag/98021.2.8.11v-kcarC-eciffO-SPW)|91-80-3202
+|kcarC etiuS rewoP reganamX|[)8200( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC reganamX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC llehsX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC ptfX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC dplX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
