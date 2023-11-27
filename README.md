@@ -113,3 +113,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC ptfX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC dplX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC rotidE 010|[0.0.41v](./../../releases/tag/0.0.41v-kcarC-rotidE-010)|72-11-3202
+|kcarC erapmoC dnoyeB|[)79382( 7.4.4v](./../../releases/tag/79382-7.4.4v-kcarC-erapmoC-dnoyeB)|72-11-3202
