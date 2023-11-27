@@ -75,6 +75,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |pizidnaB|☆★★★★|revihcra PIZ lacipyt rehtona teY|[etisbew laiciffO](https://www.bandisoft.com/)
 |reganaM daolnwoD tenretnI|☆☆★★★|erawtfos daolnwod daerht-itluM|[etisbew laiciffO](https://www.internetdownloadmanager.com/)
 |muimerP tacivaN|★★★★★|eno on ,loot tnemeganam tnempoleved esabatad tseb ehT|[etisbew laiciffO](https://www.navicat.com/)
+|rotidE 010|★★★★★|rotide xeh dna rotide txet lanoisseforp A|[etisbew laiciffO](https://www.sweetscape.com/010editor/)
 
 <br>
 
@@ -111,3 +112,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC llehsX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC ptfX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC dplX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC rotidE 010|[0.0.41v](./../../releases/tag/0.0.41v-kcarC-rotidE-010)|72-11-3202

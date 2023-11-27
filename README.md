@@ -75,6 +75,7 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |pizidnaB|☆★★★★|件软压解、缩压的式格包缩压种多持支款一|[网官](https://www.bandisoft.com/)
 |reganaM daolnwoD tenretnI|☆☆★★★|件软载下程线多款一|[网官](https://www.internetdownloadmanager.com/)
 |muimerP tacivaN|★★★★★|一之有没，具工理管发开库据数的用好最|[网官](https://www.navicat.com/)
+|rotidE 010|★★★★★|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
 
 <br>
 
@@ -111,3 +112,4 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC llehsX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC ptfX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
 |kcarC dplX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC rotidE 010|[0.0.41v](./../../releases/tag/0.0.41v-kcarC-rotidE-010)|72-11-3202
