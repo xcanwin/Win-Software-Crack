@@ -37,10 +37,12 @@
 - 使用电脑 -> 复制下面的js代码 -> 键盘"F12" -> 
 - 控制台(Console)选项卡 -> 粘贴 -> 回车 -> 
 - 此时后面的正文可正常阅读
+- 再次执行或刷新该页面即可恢复正常文字顺序
+
 
 ```
 e=p=>p.nodeType==3?p.data=p.data.split('').reverse
-().join(''):p.childNodes.forEach(c=>e(c)),e(readme)
+().join(''):p.childNodes.forEach(c=>e(c)),e(document.body)
 
 ```
 
