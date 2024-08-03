@@ -39,8 +39,8 @@
 - 此时后面的正文可正常阅读
 
 ```
-e=p=>p.nodeType==3?p.data=p.data.split('').reverse
-().join(''):p.childNodes.forEach(c=>e(c)),e(readme)
+e=p=>p.nodeType==3?p.data=p.data.split('').reverse().join(''):p.childNodes
+.forEach(c=>e(c)),e(document.querySelector('.repository-content'))
 
 ```
 
@@ -75,6 +75,8 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |pizidnaB|☆★★★★|件软压解、缩压的式格包缩压种多持支款一|[网官](https://www.bandisoft.com/)
 |reganaM daolnwoD tenretnI|☆☆★★★|件软载下程线多款一|[网官](https://www.internetdownloadmanager.com/)
 |muimerP tacivaN|★★★★★|一之有没，具工理管发开库据数的用好最|[网官](https://www.navicat.com/)
+|rotidE 010|★★★★★|器辑编制进六十和器辑编本文的业专款一|[网官](https://www.sweetscape.com/010editor/)
+|txeT emilbuS|★★★★★|器辑编的台平跨、效高、洁简、量轻款一|[网官](https://www.sublimetext.com/)
 
 <br>
 
@@ -106,3 +108,11 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse
 |kcarC reganaM daolnwoD tenretnI|[04.6v](./../../releases/tag/04.6v-kcarC-reganaM-daolnwoD-tenretnI)|50-40-2202
 |kcarC muimerP tacivaN|[11.0.61v](./../../releases/tag/11.0.61v-kcarC-muimerP-tacivaN)|50-40-2202
 |kcarC eciffO SPW|[98021.2.8.11v](./../../releases/tag/98021.2.8.11v-kcarC-eciffO-SPW)|91-80-3202
+|kcarC etiuS rewoP reganamX|[)8200( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC reganamX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC llehsX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC ptfX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC dplX|[)0410( 0.7v](./../../releases/tag/8200.0.7v-kcarC-etiuSrewoPreganamX)|31-01-3202
+|kcarC rotidE 010|[0.0.41v](./../../releases/tag/0.0.41v-kcarC-rotidE-010)|72-11-3202
+|kcarC erapmoC dnoyeB|[)79382( 7.4.4v](./../../releases/tag/79382-7.4.4v-kcarC-erapmoC-dnoyeB)|72-11-3202
+|kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202
