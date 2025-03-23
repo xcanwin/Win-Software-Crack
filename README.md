@@ -116,3 +116,8 @@ e=p=>p.nodeType==3?p.data=p.data.split('').reverse().join(''):p.childNodes
 |kcarC rotidE 010|[0.0.41v](./../../releases/tag/0.0.41v-kcarC-rotidE-010)|72-11-3202
 |kcarC erapmoC dnoyeB|[)79382( 7.4.4v](./../../releases/tag/79382-7.4.4v-kcarC-erapmoC-dnoyeB)|72-11-3202
 |kcarC txeT emilbuS|[9614v](./../../releases/tag/9614v-kcarC-txeT-emilbuS)|40-80-4202
+|kcarC etiuS rewoP reganamX|[)8000( 0.8v](./../../releases/tag/8000.0.8v-kcarC-etiuSrewoPreganamX)|32-30-5202
+|kcarC reganamX|[)8600( 0.8v](./../../releases/tag/8600.0.8v-kcarC-etiuSrewoPreganamX)|32-30-5202
+|kcarC llehsX|[)8600( 0.8v](./../../releases/tag/8600.0.8v-kcarC-etiuSrewoPreganamX)|32-30-5202
+|kcarC ptfX|[)8600( 0.8v](./../../releases/tag/8600.0.8v-kcarC-etiuSrewoPreganamX)|32-30-5202
+|kcarC dplX|[)8600( 0.8v](./../../releases/tag/8600.0.8v-kcarC-etiuSrewoPreganamX)|32-30-5202
